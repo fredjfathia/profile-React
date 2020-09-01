@@ -7,4 +7,4 @@ function FullName(){
       </div>
     );
 }
-export {FullName} 
+export default FullName

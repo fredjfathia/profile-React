@@ -1,7 +1,7 @@
 import React from 'react';
-import {FullName} from './profile/FullName' ;
-import {Address} from './profile/Address';
-import { ProfilPhoto } from './profile/ProfilPhoto';
+import FullName from './profile/FullName' ;
+import Address from './profile/Address';
+import ProfilPhoto from './profile/ProfilPhoto';
 import './profile/profile.css' ;
 
 function Main() {

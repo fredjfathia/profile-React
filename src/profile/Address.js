@@ -1,5 +1,5 @@
 import React from 'react';
-import './profile.css' ;
+
 function Address(){
     return(
      <div className="address">
@@ -8,4 +8,4 @@ function Address(){
     </div>
     );
 }
-export {Address} ;
+export default Address ;

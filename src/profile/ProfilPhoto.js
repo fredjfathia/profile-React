@@ -7,4 +7,4 @@ function ProfilPhoto(){
      </div>
     );
 }
-export {ProfilPhoto} 
+export default ProfilPhoto
